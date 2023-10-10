@@ -1,1 +1,8 @@
-lua»ù±¾ÀàĞÍ
+1ã€luaçš„åŸºæœ¬ç±»å‹
+string
+nil
+number
+function
+thread
+userdata
+table
